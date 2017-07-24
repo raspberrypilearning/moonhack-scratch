@@ -13,7 +13,7 @@ Is this your first time using Scratch? [This guide](https://codeclubprojects.org
 
 ### Additional information for club leaders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/moonhack-scratch/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/moonhack-scratch/print).
 
 
 
